@@ -1,7 +1,9 @@
 
 Description des variables retenues:
 
-1. variables subjectives
+
+1. variables subjectives individuelles
+
 
 -ppltrst ; est-ce-que l'on peut faire confiance à la plupart des gens; échelle: 0 à 10 , 0 = peu confiance / 10 = forte confiance
 
@@ -40,6 +42,13 @@ Description des variables retenues:
 -aesfdrk ; sentiment de sécurité; échelle : 1 à 4 ; 1 = se sent en grande sécurité / 4 = se sent en insécurité
 
 -ipstrgv ; le gouvernement doit être fort; échelle : 1 à 6 , 1 = complétement d’accord / 6 = pas du tout d’accord
+
+-mnrgtjb; avis sur l'avantage des hommes sur le marché du travail ;échelle : 1 à 5 , 1 = hommes devraient être avantagés sur marché travail / 5 = non
+
+-freehms ; opinion sur les homosexuels; échelle : 1 à 5 , 1 = homo devraient pouvoir vivre librement / 5 = non
+
+-imptrad ; opinion sur les traditions; échelle : 1 à 6 ; 1 = traditions très importantes / 6 = trad pas importantes
+
 
 
 2. Variables objectives individuelles
