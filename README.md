@@ -23,3 +23,14 @@ Description des variables retenues:
 
 -mbtru ; si l'individu est membre ou non d'un syndicat; échelle: 1 à 3 ; 1 = oui en ce moment/ 2 =oui par le passé/ 3=non 
 
+-stflife; à quel point l'individu est satisfait dans sa vie, échelle : 0 à 10 ; 0 = très peu satifait / 10 = très satisfait
+
+-stfedu ; opinion de l'individu sur le système éducatif du pays; échelle : 0 à 10 ; 0 = état très mauvais / 10 = état très bon
+
+-stfhlth ; opinion de l'individu sur l'état du système de santé du pays; échelle : 0 à 10 ; 0 = état très mauvais / 10 = état très bon
+
+-health ; bien être subjectif général; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
+
+2. Variables objectives individuelles
+
+
