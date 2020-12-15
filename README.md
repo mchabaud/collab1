@@ -21,5 +21,5 @@ Description des variables retenues:
 
 -pstplonl ; si l'individu publie ou non des choses sur internet; échelle: 1 à 2, 1 =non/ 2=oui
 
--mbtru ; si l'individu est membre ou non d'un syndicat; échelle: 1 à 3 ; 1 =non/ 2 =oui/ 3= 
+-mbtru ; si l'individu est membre ou non d'un syndicat; échelle: 1 à 3 ; 1 = oui en ce moment/ 2 =oui par le passé/ 3=non 
 
