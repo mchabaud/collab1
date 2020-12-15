@@ -63,15 +63,15 @@ Description des variables retenues:
 
 -crmvct; est-ce que l'individu a déjà subi une agression; échelle: 1 à 2, 1: oui/ 2=non
 
--gndr; genre de l'individu
+-gndr; genre de l'individu; échelle: 1 à 2, 1= homme/ 2= femme
 
 -agea; âge du répondant
 
 -chldhm; des enfants habitent dans le logement;  échelle: 1 à 2, 1=oui/2=non
 
--edlvdfr; plus grand niveau d'éducation; échelle: 1 à 26
+-edlvdfr; plus grand niveau d'éducation, échelle croissante; échelle: 1 à 26
 
--uemp3m; échelle: 1 à 2, 1: il appartient à une relgion/2=non
+-uemp3m; l'individu a subi une période de chômage; échelle: 1 à 2, 1=oui/2=non
 
 -tporgwk
 
