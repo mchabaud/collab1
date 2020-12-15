@@ -53,23 +53,23 @@ Description des variables retenues:
 
 2. Variables objectives individuelles
 
--prtvtcfr
+-prtvtcfr; partie politique voté au denrière élection
 
--lrscale
+-lrscale; positionnement sur l'équéquier politique de gauche à droite; échelle: de 0 à 10
 
--rlgblg; l'individu appartient à une certaine religion; échelle: 1 à 2, 1: il appartient à une relgion/2=non
+-rlgblg; l'individu appartient à une certaine religion; échelle: 1 à 2, 1: il appartient à une religion/2=non
 
--blgetmg; membre d'une éthnique minoritaire;  échelle: 1 à 2, 1: il appartient à une relgion/2=non
+-blgetmg; membre d'une éthnique minoritaire;  échelle: 1 à 2, 1: il appartient à une éthnie minoritaire /2=non
 
--crmvct; échelle: 1 à 2, 1: il appartient à une relgion/2=non
+-crmvct; est-ce que l'individu a déjà subi une agression; échelle: 1 à 2, 1: oui/ 2=non
 
--gndr
+-gndr; genre de l'individu
 
--agea
+-agea; âge du répondant
 
--chldhm; échelle: 1 à 2, 1: il appartient à une relgion/2=non
+-chldhm; des enfants habitent dans le logement;  échelle: 1 à 2, 1=oui/2=non
 
--edlvdfr
+-edlvdfr; plus grand niveau d'éducation; échelle: 1 à 26
 
 -uemp3m; échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
