@@ -45,12 +45,45 @@ Description des variables retenues:
 
 -mnrgtjb; avis sur l'avantage des hommes sur le marché du travail ;échelle : 1 à 5 , 1 = hommes devraient être avantagés sur marché travail / 5 = non
 
--freehms ; opinion sur les homosexuels; échelle : 1 à 5 , 1 = homo devraient pouvoir vivre librement / 5 = non
+-freehms ; opinion sur les homosexuels; échelle : 1 à 5 , 1 = homosexuels devraient pouvoir vivre librement / 5 = non
 
--imptrad ; opinion sur les traditions; échelle : 1 à 6 ; 1 = traditions très importantes / 6 = trad pas importantes
+-imptrad ; opinion sur les traditions; échelle : 1 à 6 ; 1 = les traditions sont très importantes / 6 = les tradditions ne sont importantes
 
 
 
 2. Variables objectives individuelles
 
+-prtvtcfr
 
+-lrscale
+
+-rlgblg
+
+-blgetmg
+
+-crmvct
+
+-gndr
+
+-agea
+
+-chldhm
+
+-edlvdfr
+
+-uemp3m
+
+-tporgwk
+
+-hinctnta
+
+3. Variables objectives régionnales
+
+
+-GDP_PPA, PIB/habitants en 2016 en parité de pouvoir d'achat
+
+-Population change, taux de croissance de la population
+
+-LT unemployment, chômage de long terme
+
+-% students, le pourcentage d'étudiants chez les 20-24 ans
