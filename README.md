@@ -11,7 +11,7 @@ Description des variables retenues:
 
 -trstplt ; confiance dans les hommes politiques et la politique en générale; échelle : 0 à 10 , 0 = peu confiance / 10 = forte confiance
 
--ccnthum ; confiance dans le discours scientifique;  échelle: 1 à 5 , 1= peu confiance dans discours scientifique dominant / 5 = forte confiance dans le discours scientifique
+-ccnthum ; e fait de penser que le réchauffement climatique a une cause naturelle  ou humaine ;  échelle: 1 à 5 , 1= cause purement naturelle / 5 = cause humaine
 
 -polintr; à quel point l'individu est intéréssé par la politique ; échelle: 1 à 4 , 1 = très intéressé / 4 = pas du tout intéressé
 
@@ -31,7 +31,7 @@ Description des variables retenues:
 
 -stfhlth ; opinion de l'individu sur l'état du système de santé du pays; échelle : 0 à 10 ; 0 = état très mauvais / 10 = état très bon
 
--health ; bien-être subjectif général; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
+-health ; l'état de santé dans lequel se dit être l'individu; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
 
 -gincdif ; le gouvernement a pour mission de réduire les inégalités; échelle : 1 à 5 , 1 = complétement d’accord / 5 = pas du tout d’accord
 
