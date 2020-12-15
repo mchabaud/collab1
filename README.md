@@ -13,13 +13,13 @@ Description des variables retenues:
 
 -polintr; à quel point l'individu est intéréssé par la politique ; échelle: 1 à 4 , 1 = très intéressé / 4 = pas du tout intéressé
 
--vote ; si l'individu a voté aux dernières élections; échelle:
+-vote ; si l'individu a voté aux dernières élections; échelle: 1 à 3,  1= oui / 2= Non / 3= non éligible au vote
 
--pbldmn ; si l'individu participe à des manifestations; échelle: 
+-pbldmn ; si l'individu participe à des manifestations; échelle: 1 à 2, 1 =non/ 2=oui
 
--bctprd ; si l'individu participe à des boycotts de produits; échelle: 
+-bctprd ; si l'individu participe à des boycotts de produits; échelle: 1 à 2, 1 =non/ 2=oui
 
--pstplonl ; si l'individu publie ou non des choses sur internet; échelle:
+-pstplonl ; si l'individu publie ou non des choses sur internet; échelle: 1 à 2, 1 =non/ 2=oui
 
--mbtru ; si l'individu est membre ou non d'un syndicat; échelle:
+-mbtru ; si l'individu est membre ou non d'un syndicat; échelle: 1 à 3 ; 1 =non/ 2 =oui/ 3= 
 
