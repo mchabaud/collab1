@@ -31,6 +31,17 @@ Description des variables retenues:
 
 -health ; bien être subjectif général; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
 
+-gincdif ; le gouvernement a pour mission de réduire les inégalités; échelle : 1 à 5 , 1 = complétement d’accord / 5 = pas du tout d’accord
+
+-euftf ; avis sur l'intégration européenne; échelle : 0 à 10 , 0 = intégration est allée trop loin / 10 = intégration devrait aller + loin
+
+-imwbcnt ; avis de l'individus à propos des immigrants; échelle : 0 à 10 , 0 = immigrants sont un poids pour le pays / 10 = immigrants améliorent
+
+-aesfdrk ; sentiment de sécurité; échelle : 1 à 4 ; 1 = se sent en grande sécurité / 4 = se sent en insécurité
+
+-ipstrgv ; le gouvernement doit être fort; échelle : 1 à 6 , 1 = complétement d’accord / 6 = pas du tout d’accord
+
+
 2. Variables objectives individuelles
 
 
