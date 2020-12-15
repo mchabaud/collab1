@@ -9,9 +9,9 @@ Description des variables retenues:
 
 -cptppola ; confiance dans la participation personnelle en politique; échelle: 0 à 5 , 0 = peu confiance / 5 = forte confiance
 
--trstplt ; onfiance dans les hommes politiques et la politique en général; échelle : 0 à 10 , 0 = peu confiance / 10 = forte confiance
+-trstplt ; confiance dans les hommes politiques et la politique en générale; échelle : 0 à 10 , 0 = peu confiance / 10 = forte confiance
 
--ccnthum ; confiance dans le discours scientfique;  échelle: 1 à 5 , 1= peu confiance dans discours scientifique dominant / 5 = forte confiance dans le discours scientifique
+-ccnthum ; confiance dans le discours scientifique;  échelle: 1 à 5 , 1= peu confiance dans discours scientifique dominant / 5 = forte confiance dans le discours scientifique
 
 -polintr; à quel point l'individu est intéréssé par la politique ; échelle: 1 à 4 , 1 = très intéressé / 4 = pas du tout intéressé
 
@@ -31,19 +31,19 @@ Description des variables retenues:
 
 -stfhlth ; opinion de l'individu sur l'état du système de santé du pays; échelle : 0 à 10 ; 0 = état très mauvais / 10 = état très bon
 
--health ; bien être subjectif général; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
+-health ; bien-être subjectif général; échelle: 1 à 5, 1 = très bon état de santé / 5 = très mauvais état de santé
 
 -gincdif ; le gouvernement a pour mission de réduire les inégalités; échelle : 1 à 5 , 1 = complétement d’accord / 5 = pas du tout d’accord
 
--euftf ; avis sur l'intégration européenne; échelle : 0 à 10 , 0 = intégration est allée trop loin / 10 = intégration devrait aller + loin
+-euftf ; avis sur l'intégration européenne; échelle : 0 à 10 , 0 = intégration est allée trop loin / 10 = intégration devrait aller plus loin
 
--imwbcnt ; avis de l'individus à propos des immigrants; échelle : 0 à 10 , 0 = immigrants sont un poids pour le pays / 10 = immigrants améliorent
+-imwbcnt ; avis de l'individus à propos des immigrants; échelle : 0 à 10 , 0 = immigrants sont un poids pour le pays / 10 = immigrants améliorent le pays
 
 -aesfdrk ; sentiment de sécurité; échelle : 1 à 4 ; 1 = se sent en grande sécurité / 4 = se sent en insécurité
 
 -ipstrgv ; le gouvernement doit être fort; échelle : 1 à 6 , 1 = complétement d’accord / 6 = pas du tout d’accord
 
--mnrgtjb; avis sur l'avantage des hommes sur le marché du travail ;échelle : 1 à 5 , 1 = hommes devraient être avantagés sur marché travail / 5 = non
+-mnrgtjb; avis sur l'avantage des hommes sur le marché du travail ; échelle : 1 à 5 , 1 = hommes devraient être avantagés sur marché travail / 5 = non
 
 -freehms ; opinion sur les homosexuels; échelle : 1 à 5 , 1 = homosexuels devraient pouvoir vivre librement / 5 = non
 
@@ -73,7 +73,7 @@ Description des variables retenues:
 
 -uemp3m; l'individu a subi une période de chômage; échelle: 1 à 2, 1=oui/2=non
 
--tporgwk
+-tporgwk; type d'organisation à laquelle  appartient l'individu; échelle: 1 à 5; 1= employé dans un gouvernement central ou local/ 5= auto-entrepreneur
 
 -hinctnta; revenu de l'individu; échelle: de 1 à 10, le 1 correspond au premier décile et ainsi de suite
 
