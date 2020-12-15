@@ -57,21 +57,21 @@ Description des variables retenues:
 
 -lrscale
 
--rlgblg
+-rlgblg; l'individu appartient à une certaine religion; échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
--blgetmg
+-blgetmg; membre d'une éthnique minoritaire;  échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
--crmvct
+-crmvct; échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
 -gndr
 
 -agea
 
--chldhm
+-chldhm; échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
 -edlvdfr
 
--uemp3m
+-uemp3m; échelle: 1 à 2, 1: il appartient à une relgion/2=non
 
 -tporgwk
 
