@@ -75,7 +75,7 @@ Description des variables retenues:
 
 -tporgwk
 
--hinctnta
+-hinctnta; revenu de l'individu; échelle: de 1 à 10, le 1 correspond au premier décile et ainsi de suite
 
 3. Variables objectives régionnales
 
